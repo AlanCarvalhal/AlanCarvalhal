@@ -1,6 +1,6 @@
 ## Olá, eu sou o Alan Carvalhal da Cruz!
 <div>
-  📚 Estudante de Ciência da Computação na UVV-ES - 6º período <br>
+  📚 Formado em Ciência da Computação na UVV-ES <br>
   🎮 Amo jogar, foi assim que comecei a gostar de TI <br>
   🏎️ Apaixonado por automobilismo <br>
   🧠 Sempre aprimorando o conhecimento e descobrindo novas tecnologias <br>
