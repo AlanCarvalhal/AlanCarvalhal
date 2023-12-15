@@ -1,6 +1,6 @@
 ## Olá, eu sou o Alan Carvalhal da Cruz!
 <div>
-  📚 Formado em Ciência da Computação na UVV-ES <br>
+  📚 Formado em **Ciência da Computação** na UVV-ES <br>
   🎮 Amo jogar, foi assim que comecei a gostar de TI <br>
   🏎️ Apaixonado por automobilismo <br>
   🧠 Sempre aprimorando o conhecimento e descobrindo novas tecnologias <br>
@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/AlanCarvalhal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanCarvalhal&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCarvalhal&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanCarvalhal&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCarvalhal&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 ##
