@@ -1,4 +1,4 @@
-## Olá, eu sou o Alan Carvalhal da Cruz!
+## Hi, I am Alan Carvalhal da Cruz!
 <div>
   📚 **Computer Scientist** at UVV-ES <br>
   🎮 Passionate about games, always watching championships of my favorite games <br>
