@@ -1,10 +1,10 @@
 ## Olá, eu sou o Alan Carvalhal da Cruz!
 <div>
-  📚 Formado em **Ciência da Computação** na UVV-ES <br>
-  🎮 Amo jogar, foi assim que comecei a gostar de TI <br>
-  🏎️ Apaixonado por automobilismo <br>
-  🧠 Sempre aprimorando o conhecimento e descobrindo novas tecnologias <br>
-  💻 Atualmente a minha linguagem preferida é C#
+  📚 **Computer Scientist** at UVV-ES <br>
+  🎮 Passionate about games, always watching championships of my favorite games <br>
+  🏎️ Motorsport is my #1 sport <br>
+  🧠 Always improving knowledge and discovering new technologies <br>
+  💻 Currently working as a Full Stack Developer with the following technologies: Angular, TypeScript, HTML5 and CSS3, Node.js, PostgreSQL, AWS, RabbitMq.
 </div>
 
 ##
