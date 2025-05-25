@@ -1,6 +1,6 @@
 ## Hi, I am Alan Carvalhal da Cruz!
 <div>
-  📚 **Computer Scientist** at UVV-ES <br>
+  📚 <b>Computer Scientist</b> at UVV-ES <br>
   🎮 Passionate about games, always watching championships of my favorite games <br>
   🏎️ Motorsport is my #1 sport <br>
   🧠 Always improving knowledge and discovering new technologies <br>
